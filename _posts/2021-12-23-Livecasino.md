@@ -2,7 +2,7 @@
 
 
 
-<img title="Julian Bock" src="file:///C:/Users/JJY00/Pictures/Camera Roll/제목을-입력해주세요_-001.png" alt="null" data-align="inline" width="335">
+<img title="Julian Bock" src="file:///"assets/images/gitcasinorogo.png" alt="null" data-align="inline" width="335">
 
 강원랜드 슬롯머신을 좋아하는 사람들을 위한 
 
