@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JJOcasino 홍보페이지"
+title                    : "GIT CASINO 라이브 게임사이트 모음집"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "실시간바카라"
-description              : "An amazing website."
+name                     : "JJOcasino"
+description              : " GIT CASINO 라이브 게임사이트 모음집에 오신걸 환영합니다. 라이브 카지노게임사이트를 사고 불편없이 이용하기 위한 분들을 위해 만들었습니다."
 url                      : "https://newcasino2580.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
