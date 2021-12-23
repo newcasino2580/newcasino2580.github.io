@@ -2,7 +2,8 @@
 
 
 
-<img title="Julian Bock" src="file:///"assets/images/gitcasinorogo.png" alt="null" data-align="inline" width="335">
+![Alt text](/assets/images/gitcasinorogo.png)
+![Alt text](/assets/images/gitcasinorogo.png "온라인 슬롯머신 사이트")
 
 강원랜드 슬롯머신을 좋아하는 사람들을 위한 
 
