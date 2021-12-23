@@ -2,8 +2,7 @@
 
 
 
-![Alt text](/assets/images/gitcasinorogo.png)
-![Alt text](/assets/images/gitcasinorogo.png "온라인 슬롯머신 사이트")
+![Alt text](/assets/images/BTSSLOT.png "온라인 슬롯머신 사이트")
 
 강원랜드 슬롯머신을 좋아하는 사람들을 위한 
 
