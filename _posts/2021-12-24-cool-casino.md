@@ -8,7 +8,11 @@
 
 크리스마스를 맞이하여 온라인카지노 슬롯머신 사이트 최고의 이벤트를 자랑하는 쿨카지노 쿨슬롯이 크리스마스 이벤트를 준비했습니다.
 
-많은 참여 부탁드립니다.
+많은 참여 부탁드립니다. 
+
+Link: [클릭][coolslotlink]
+
+[coolslotlink]: https://oiu573.com "Cool Slot"
 
 ![Alt text](/assets/images/coolcasinoevent.gif "쿨슬롯 크리스마스이벤트")
 
