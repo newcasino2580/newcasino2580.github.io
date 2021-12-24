@@ -10,7 +10,7 @@
 
 많은 참여 부탁드립니다.
 
-![Alt text](/
+![Alt text](/assets/images/coolcasinoevent.gif "쿨슬롯 크리스마스이벤트")
 
 ## 크리스마스 슬롯 토너먼트
 
