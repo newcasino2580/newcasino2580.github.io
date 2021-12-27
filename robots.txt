@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://newcasino2580.github.io/sitemap.xml
